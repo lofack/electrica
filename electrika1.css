@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+
+
+body {
+  background-color: rgba(222, 227, 233, 0.863) ;
+  color: rgb(24, 20, 20);
+  font-size: 18px;
+  font-weight: ligt;
+  font-family: 'roboto' sans-serif;
+}
+
+
+.obolochka {
+  max-width: 750px;
+  margin: auto;
+  padding-top: 15px;
+ 
+}
+
+@media (max-width: 700px) {
+  .uupper2 {
+    text-align: center;
+    display: block;
+
+  }
+}
+
+
+.upper2 {
+  width: 750px;
+  display: flex;
+  height: 370px;
+  position: relative;
+}
+
+
+.fon {
+  height: 300px;
+  width: 750px;
+  position: absolute;
+}
+
+
+.upper {
+  margin: 10px;
+  width:  500px;
+  background: none;
+  color: rgb(53, 10, 247);
+  position: absolute;
+  text-align: none;
+}
+
+
+.upper1 {
+  margin: 50px;
+  width:  500px;
+  background: none;
+  color: rgb(53, 10, 247);
+  position: absolute;
+  left: 200px;
+  text-align: right;
+}
+
+
+.pr {
+  text-align: center;
+  background: rgb(46, 138, 180);
+  color: rgb(11, 11, 12);
+}
+
+
+.raz1 {
+  display: flex;
+  
+}
+
+
+.razvodka {
+  width: 49%;
+  font-weight: 800;
+  color: rgb(104, 90, 81);
+}
+
+
+.raz {
+  width: 51%;
+  margin-left: 10px;
+}
+
+
+.raz2 {
+  display: flex;
+}
+
+
+.raz3 {
+  width: 50%;
+}
+
+
+.razvodka2 {
+  width: 49%;
+  margin-left: 15px;
+  color: rgb(104, 90, 81)
+}
+
+
+.prise h1 {
+  text-align: left;
+  font-style: italic;
+  color: rgb(23, 31, 31);
+
+}
+
+
+.table {
+  width: 100%;
+  border: 1000px rgb(223, 109, 33);
+  border-collapse: unset;
+  color: rgb(20, 20, 20);
+  font-size: 15px;
+}
+
+
+.table td>th {
+  text-align: right;
+  border: 1px solid blue;
+ 
+}
+
+.call a {
+  text-decoration: none;
+  color:  red;
+}
+
+
+.uslugi {
+  display: flex;
+  padding-bottom: 35px;
+}
+
+
+.uslugi1 {
+  width: 750px;
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+}
+
+
+.uslugi2 {
+  width: 750px;
+}
+
+
+.uslugi3 {
+  display: flex;
+  padding-bottom: 50px;
+
+}
+
+
+.uslugi4 {
+  width: 49%;
+  color: rgb(104, 90, 81);
+  font-size: 17px;
+  margin-left: 10px;
+}
+
+
+.uslugi5 {
+  width: 51%;
+}
+
+.podkey {
+  display: flex;
+}
+
+
+.podkey1 {
+  width: 49%;
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+}
+
+.podkey2 {
+  width: 51%;
+}
+
+
+.podkey3 {
+  display: flex;
+}
+
+
+.podkey4 {
+  width: 49%;
+}
+
+
+.podkey5 {
+  width: 51%;
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+  margin-left: 10px;
+}
+
+
+.old {
+  display: flex;
+}
+
+
+.old1 {
+  width: 49%;
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+}
+
+
+.old2 {
+  width: 51%;
+}
+
+
+.old3 {
+  display: flex;
+}
+
+
+.old4 {
+  width: 49%;
+}
+
+
+.old5 {
+  width: 51%;
+  font-size: 18px;
+  color: rgb(104, 90, 81);
+  margin-left: 10px;
+}
+
+
+.swap {
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+}
+
+
+
+.end {
+  font-size: 17px;
+  color: rgb(104, 90, 81);
+}
+
+
+.end1 {
+  list-style: none;
+  padding: 0px;
+}
+
+
+.end2 {
+  list-style: disc;
+  color: rgb(104, 90, 81);
+}
+
+
+.end3 {
+  width: 550px;
+  margin-left: 100px;
+}
+
+
